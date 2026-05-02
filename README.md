@@ -29,6 +29,9 @@ I specialize in:
 - Machine Learning model development
 - Data analysis and predictive modeling
 - Algorithm optimization and problem solving
+-  Artificial Intelligence Operator student
+-  develop AI-based solutions for real-world problems
+- Goal: Become a strong AI engineer & freelance developer
 
 🎯 My goal is to help businesses and individuals turn data into smart decisions through AI-powered systems.
 
