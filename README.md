@@ -13,14 +13,6 @@
 
 ---
 
-# 👋 Hi, I'm Melike Sude
-
-🎓 Artificial Intelligence Operator student  
-🚀 I develop AI-based solutions for real-world problems  
-🌍 Goal: Become a strong AI engineer & freelance developer
-
----
-
 ## 🧠 About Me
 
 I am an Artificial Intelligence and Machine Learning enthusiast focused on building practical, real-world solutions.
