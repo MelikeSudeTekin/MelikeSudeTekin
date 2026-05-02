@@ -97,12 +97,6 @@ I specialize in:
 
 💡 I focus on clean, understandable and efficient solutions.
 
-## 📫 Let's Work Together
-
-- 📧 Email: mesu.tyasbuk43@gmail.com  
-- 💻 GitHub: https://github.com/MelikeSudeTekin  
-
-🚀 Open to freelance projects and collaborations
 
 ## 🎯 Currently
 
