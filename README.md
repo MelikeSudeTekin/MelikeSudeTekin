@@ -1,3 +1,12 @@
+# 👋 Hi, I'm Melike Sude
+
+🚀 AI & Machine Learning Developer focused on real-world problem solving  
+📊 I build data-driven solutions using Python, ML models and analytics  
+💼 Open to freelance opportunities (Data Science / AI / ML projects)
+
+---
+
+💡 I turn data into actionable insights and build intelligent systems that solve real problems.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=26&center=true&vCenter=true&width=600&lines=Hi+I'm+Melike+Sude;AI+%26+Machine+Learning+Developer;Data+Science+Enthusiast;Freelance+Ready+🚀" />
 </p>
@@ -14,10 +23,14 @@
 
 ## 🧠 About Me
 
-- 🤖 Machine Learning & AI Development  
-- 📊 Data Analysis & Visualization  
-- 🧩 Algorithm Design & Problem Solving  
-- 🌐 Building intelligent applications  
+I am an Artificial Intelligence and Machine Learning enthusiast focused on building practical, real-world solutions.
+
+I specialize in:
+- Machine Learning model development
+- Data analysis and predictive modeling
+- Algorithm optimization and problem solving
+
+🎯 My goal is to help businesses and individuals turn data into smart decisions through AI-powered systems.
 
 ---
 
@@ -74,6 +87,22 @@
 </p>
 
 ---
+## 💼 What I Can Help You With
+
+✔ Machine Learning models (prediction, classification, regression)  
+✔ Data analysis & visualization reports  
+✔ Python automation scripts  
+✔ Algorithm optimization & data structure solutions  
+✔ AI-based academic / research projects  
+
+💡 I focus on clean, understandable and efficient solutions.
+
+## 📫 Let's Work Together
+
+- 📧 Email: mesu.tyasbuk43@gmail.com  
+- 💻 GitHub: https://github.com/MelikeSudeTekin  
+
+🚀 Open to freelance projects and collaborations
 
 ## 🎯 Currently
 
@@ -84,7 +113,7 @@
 ---
 
 ## 📫 Contact
-
+💼 Available for freelance work
 - 📧 Email: mesu.tyasbuk43@gmail.com  
 - 💻 GitHub: https://github.com/MelikeSudeTekin  
 
