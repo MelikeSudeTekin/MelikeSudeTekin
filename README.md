@@ -107,7 +107,7 @@ I specialize in:
 ---
 
 ## 📫 Contact
-💼 Available for freelance work
+
 - 📧 Email: mesu.tyasbuk43@gmail.com  
 - 💻 GitHub: https://github.com/MelikeSudeTekin  
 
