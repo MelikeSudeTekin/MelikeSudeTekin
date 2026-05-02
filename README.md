@@ -111,5 +111,3 @@ I specialize in:
 <p align="center">
   <b>🚀 Always learning, always building 🚀</b>
 </p>
-![Profil Görüntülenme Sayacı](https://komarev.com/ghpvc/?username=MelikeSudeTekin&color=blue&style=flat-square&label=PROFİL+ZİYA
-RETİ)
