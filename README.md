@@ -1,3 +1,4 @@
+![snake gif](https://github.com/MelikeSudeTekin/MelikeSudeTekin/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Melike+Sude;AI+Developer+in+Progress;Machine+Learning+Enthusiast;Open+to+Freelance+Work" />
 </p>
